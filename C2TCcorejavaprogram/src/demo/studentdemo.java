@@ -10,16 +10,10 @@ public class studentdemo {
 		
 		System.out.println(stn);
 		  
-		System.out.println("ID:"+stn.getId());
-		System.out.println("Name:"+stn.getName());
-		System.out.println("Age:"+stn.getAge());
 		
 		
 		
 		
-		customer c = new customer();
-		c.setName("John");
-		System.out.println(c);
 	}
 
 }
